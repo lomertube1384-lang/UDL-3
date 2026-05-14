@@ -1,0 +1,35 @@
+# 37859_480p
+
+---
+
+## Download Information
+
+| Property | Value |
+|----------|-------|
+| **Original File** | `37859_480p.mp4` |
+| **Total Size** | **3 parts** - **222.49 MB** |
+| **Status** | **Complete (100%)** |
+| **Password Protected** | **YES** |
+
+---
+
+## Download Links
+
+| # | File | Link |
+|---|------|------|
+| 1 | `37859_480p.z01` | [Download](https://github.com/lomertube1384-lang/UDL-3/raw/main/downloads/37859_480p/37859_480p.z01) |
+| 2 | `37859_480p.z02` | [Download](https://github.com/lomertube1384-lang/UDL-3/raw/main/downloads/37859_480p/37859_480p.z02) |
+| 3 | `37859_480p.zip` | [Download](https://github.com/lomertube1384-lang/UDL-3/raw/main/downloads/37859_480p/37859_480p.zip) |
+
+---
+
+## How to Extract
+
+1. **Download all parts** (`.zip`, `.z01`, `.z02`...)
+2. **Open** `37859_480p.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
+3. **Extract** — all parts combine automatically
+4. Enter the password when prompted
+
+---
+
+*This tool created by [avasam.ir](https://avasam.ir)*
